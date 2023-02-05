@@ -1,0 +1,11 @@
+h1 {
+    background-image: url(../images/Screenshot_20221104_125812.png);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    height: fit-content;
+    padding: 400px;
+    text-align: center;
+    text-shadow: #fff 0px 0px 3px;
+    font-size: 10vw;
+
+}
